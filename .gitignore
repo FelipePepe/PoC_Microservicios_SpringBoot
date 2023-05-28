@@ -1,0 +1,7 @@
+/.metadata/
+*.json
+/inicio/
+*/.mvn/
+*/bin
+/service-configuration/
+/README.txt
